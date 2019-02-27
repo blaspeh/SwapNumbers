@@ -1,0 +1,7 @@
+G:\Akademija\C# Basic\Class_02\Class2 Data Input IF SWITCH\SwapNumbers\bin\Debug\SwapNumbers.exe.config
+G:\Akademija\C# Basic\Class_02\Class2 Data Input IF SWITCH\SwapNumbers\bin\Debug\SwapNumbers.exe
+G:\Akademija\C# Basic\Class_02\Class2 Data Input IF SWITCH\SwapNumbers\bin\Debug\SwapNumbers.pdb
+G:\Akademija\C# Basic\Class_02\Class2 Data Input IF SWITCH\SwapNumbers\obj\Debug\SwapNumbers.csproj.CoreCompileInputs.cache
+G:\Akademija\C# Basic\Class_02\Class2 Data Input IF SWITCH\SwapNumbers\obj\Debug\SwapNumbers.exe
+G:\Akademija\C# Basic\Class_02\Class2 Data Input IF SWITCH\SwapNumbers\obj\Debug\SwapNumbers.pdb
+G:\Akademija\C# Basic\Class_02\Class2 Data Input IF SWITCH\SwapNumbers\obj\Debug\SwapNumbers.csprojAssemblyReference.cache
